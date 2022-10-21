@@ -1,0 +1,3 @@
+[2022-10-21 17:58:55.591] [sharedprocess] [info] Starting worker process with pid 1111 (type: fileWatcher, window: 1).
+[2022-10-21 18:01:07.093] [sharedprocess] [info] Starting worker process with pid 1284 (type: fileWatcher, window: 3).
+[2022-10-21 18:01:12.942] [sharedprocess] [info] Worker process with pid 1284 terminated normally (type: fileWatcher, window: 3).

@@ -1,0 +1,8 @@
+[2022-10-21 16:36:19.384] [sharedprocess] [info] Starting worker process with pid 9755 (type: fileWatcher, window: 1).
+[2022-10-21 16:36:59.252] [sharedprocess] [info] Getting Manifest... arcticicestudio.nord-visual-studio-code
+[2022-10-21 16:36:59.445] [sharedprocess] [info] Installing extension: arcticicestudio.nord-visual-studio-code
+[2022-10-21 16:37:00.902] [sharedprocess] [info] Downloaded extension: arcticicestudio.nord-visual-studio-code /home/fx/.config/VSCodium/CachedExtensionVSIXs/arcticicestudio.nord-visual-studio-code-0.19.0-universal
+[2022-10-21 16:37:00.941] [sharedprocess] [info] Extracted extension to /home/fx/.vscode-oss/extensions/.17a04ac3-25b6-4e2b-8093-7ba9d19c7440: arcticicestudio.nord-visual-studio-code
+[2022-10-21 16:37:00.951] [sharedprocess] [info] Renamed to /home/fx/.vscode-oss/extensions/arcticicestudio.nord-visual-studio-code-0.19.0-universal
+[2022-10-21 16:37:00.953] [sharedprocess] [info] Extracting completed. arcticicestudio.nord-visual-studio-code
+[2022-10-21 16:37:00.954] [sharedprocess] [info] Extension installed successfully: arcticicestudio.nord-visual-studio-code
